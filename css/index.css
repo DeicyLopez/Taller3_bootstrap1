@@ -1,0 +1,6 @@
+.card {
+    border-right: solid;
+    border-color: cadetblue;
+    border-width: 3.5px;
+    grid-row: auto;
+}
